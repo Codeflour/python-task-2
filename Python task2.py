@@ -5,8 +5,8 @@ import random
 
 def user_details ()
 
-first_name=imput ('Enter your first name: ')
-last_name=imput ('Enter your last name: ')
-email=imput ('Enter your email: ')
+first_name=input ('Enter your first name: ')
+last_name=input ('Enter your last name: ')
+email=input ('Enter your email: ')
 
 if 
